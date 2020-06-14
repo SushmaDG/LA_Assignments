@@ -1,3 +1,3 @@
 # Learning and Adaptivity Assignements
 
-The repository consists of assignment from Learning and Adaptivity courses
+The repository consists of assignments from Learning and Adaptivity course
